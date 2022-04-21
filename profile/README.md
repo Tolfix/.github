@@ -1,5 +1,5 @@
 <div class="margin: 0 auto;" align="center">
-  <a href="https://tolfix.com/" target="_blank"><img width="260" src="https://cdn.tolfix.com/images/TX-Small.png" alt="Tolfix"></a>
+  <a href="https://tolfix.com/" target="_blank"><img width="260" src="https://cdn.tolfix.com/images/Tolfix.png" alt="Tolfix"></a>
 </div>
 
 # 💚 | Tolfix
