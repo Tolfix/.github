@@ -1,12 +1,17 @@
-## Hi there 👋
+<div class="margin: 0 auto;" align="center">
+  <a href="https://tolfix.com/" target="_blank"><img width="260" src="https://cdn.tolfix.com/images/TX-Small.png" alt="Tolfix"></a>
+  <br/>
+  <strong>C</strong>entral <strong>P</strong>ayment <strong>G</strong>ateway - API
+</div>
 
-<!--
+# 💚 | Tolfix
+Tolfix is a company were we dedicate our time into development, IT, networking and so much more.
 
-**Here are some ideas to get you started:**
+# 📢 | Contribute
+Want to contribute? Great!
+You can contribute to the repository by `forking`, then make a pull request when you're done!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Or you can ask on our [`discord server`](https://discord.tolfix.com).
+
+# 🔮 | Discord
+[![Discord](https://discord.com/api/guilds/833438897484595230/widget.png?style=banner4)](https://discord.tolfix.com)
