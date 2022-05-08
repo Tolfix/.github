@@ -2,6 +2,8 @@
   <a href="https://tolfix.com/" target="_blank"><img width="256" src="https://cdn.tolfix.com/images/Tolfix.png" alt="Tolfix"></a>
 </div>
 
+#
+![](https://githubviews.tolfix.com/?id=Tolfix&color=green&style=plastic&label=Views)
 # 💚 | Tolfix
 Tolfix is a company were we dedicate our time into development, IT, networking and so much more.
 
